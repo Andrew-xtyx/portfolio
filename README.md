@@ -49,9 +49,9 @@ I'm constantly working on new projects and open source contributions. Stay tuned
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewty808@gmail.com)
-[![Instagram](https://img.shields.io/badge/📷-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrew_xtyx)
 [![Website](https://img.shields.io/badge/🌐-Website-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andrewgabriel.xyz)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=andrewty808@gmail.com"><img src="https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+[![Instagram](https://img.shields.io/badge/📷-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrew_xtyx)
 
 </div>
 
