@@ -21,7 +21,7 @@
 | React | Fast Performance |
 | Tailwind CSS | SEO Optimized |
 
-🔗 [Live Demo](http://mikabraids.com.br)
+🔗 [Live Demo](https://andrewgabriel.xyz)
 
 ---
 
